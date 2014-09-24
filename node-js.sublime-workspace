@@ -1,0 +1,444 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"OnAja",
+				"OnAjaxValidateErrors(formEle, result)	common.js"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"slid",
+				"slideDown	.slideDown()"
+			],
+			[
+				"curre",
+				"currentQIndex	quizwidget.js"
+			],
+			[
+				"answ",
+				"answeredQuestions	quizwidget.js"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"progr",
+				"progress	quizwidget.js"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ans",
+				"answeredQuestions	quizwidget.js"
+			],
+			[
+				"click",
+				"click	.click()"
+			],
+			[
+				"ONA",
+				"OnAjaxValidateErrors(formEle, result)	common.js"
+			],
+			[
+				"hol",
+				"holder	quizwidget.js"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"parent",
+				"parents	.parents()"
+			],
+			[
+				"pare",
+				"parents	.parents()"
+			],
+			[
+				"bind",
+				"bindEvents()	homepage.js"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"va",
+				"var	var"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"PAC",
+				"Package Control: Install Package"
+			],
+			[
+				"package control : in",
+				"Package Control: Install Package"
+			],
+			[
+				"packger con",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control :ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Hackathon/DockerTest/node"
+	],
+	"file_history":
+	[
+		"/D/wamp/www/surgery.lk_v2/src/stylus/common.styl",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/home.styl",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/common.css",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/admin.styl",
+		"/D/wamp/www/surgery.lk_v2/src/js/profilepage.js",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/profile.styl",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/aboutus.styl",
+		"/D/wamp/www/surgery.lk_v2/src/js/articlepage.js",
+		"/D/wamp/www/surgery.lk_v2/src/Gruntfile.js",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/article.styl",
+		"/D/wamp/www/surgery.lk_v2/src/js/homepage.js",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/quiz.styl",
+		"/D/wamp/www/surgery.lk/js/homepage.js",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/category.styl",
+		"/D/wamp/www/surgery.lk/css/theme_blue/style.css",
+		"/D/wamp/www/surgery.lk_v2/src/js/common.js",
+		"/D/wamp/www/surgery.lk_v2/js/jquery.fineuploader-3.0.min.js",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/article.css",
+		"/D/wamp/www/surgery.lk_v2/src/js/jquery.imgareaselect.js",
+		"/D/wamp/www/surgery.lk_v2/src/js/quizwidget.js",
+		"/D/wamp/www/surgery.lk_v2/src/js/typeahead.bundle.js",
+		"/D/wamp/www/surgery.lk_v2/src/js/bootstrap-tagsinput.js",
+		"/D/wamp/www/surgery.lk_v2/src/js/bootstrap-tagsinput.min.js",
+		"/C/Users/Janaka/AppData/Local/Temp/Rar$DI09.592/bootstrap-tagsinput.js",
+		"/D/wamp/www/surgery.lk_v2/js/quizwidget.js",
+		"/D/wamp/www/surgery.lk_v2/src/js/registerpage.js",
+		"/D/wamp/www/surgery.lk_v2/js/homepage.js",
+		"/D/wamp/www/surgery.lk_v2/src/stylus/home.css",
+		"/D/wamp/www/surgery.lk_v2/src/js/home.js",
+		"/D/wamp/www/surgery.lk_v2/js/home.js",
+		"/D/wamp/www/surgery.lk/js/jquery.cycle.all.js",
+		"/D/Sublime Text/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/wamp/www/surgery.lk_v2/src/sublime.sublime-project",
+		"/D/wamp/www/stylus/StylusCompiler/stylus/code_examples.styl",
+		"/D/wamp/www/stylus/StylusCompiler/stylus/home.styl"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"&:hover, &.active{"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"article",
+			"article_topic",
+			"article_topic box",
+			"imgWrap",
+			"getSelection",
+			"onSelectEnd",
+			"img",
+			"onSelectEnd",
+			"					\n",
+			"resetInputValue",
+			"setInputValue",
+			"resetInputValue",
+			"_onBlur",
+			"addOnBlur",
+			"focusout",
+			"$input.val(",
+			"$input.val('')",
+			"this.inputSize",
+			"wid",
+			"css",
+			"input.s",
+			"attr",
+			"width",
+			"updateQuestion",
+			"></",
+			"showQuestions",
+			"hideSummary",
+			"showResult",
+			"consol",
+			"updateQuestion",
+			"answerBtn",
+			"commentsHolder",
+			"	\n",
+			"body-gray",
+			"&:hover{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"nextBtn",
+			"body-section",
+			"&:hover, &.active{",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "node-js.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home",
+				"home.styl"
+			],
+			[
+				"comm",
+				"common.styl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\wamp\\www\\surgery.lk_v2\\src\\stylus\\sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
